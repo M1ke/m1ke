@@ -1,6 +1,6 @@
 ### hi, I'm M1ke 👋
 
-I'm a software engineer, CTO of a startup and I give talks & run workshops at events in the UK and beyond.
+I'm a software engineer, CTO of a startup, and I give talks & run workshops at events in the UK and beyond.
 
 I mostly work with PHP, JavaScript and AWS; I'm also partial to experimenting with serverless, automated testing and real-time communications.
 
