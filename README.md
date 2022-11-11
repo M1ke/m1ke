@@ -10,4 +10,4 @@ If you like the projects I work on, many were started as part of my day job, as 
 
 _Verifications_
 
-:speech_balloon:  <a rel="me" href="https://phpc.social/@m1ke">Mastodon</a>
+:speech_balloon:  <a href="https://phpc.social/@m1ke" rel="nofollow me">Mastodon</a>
